@@ -1,21 +1,41 @@
-# Professional Blue-Themed Bootstrap Website
+README.txt – Project Reflection Report
+---------------------------------------------
+Intern Name: SUPRAJA CHEEKATLA
+Institute: Rajamahendri Institute of Engineering and Technology (RIET CLS), Affiliated to JNTUK
+Technology Used: HTML5, CSS3, Bootstrap 5
 
-## Overview
-This project is a 3-page professional Bootstrap website built for **Supraja Cheekatla**.  
-The website includes the following pages:
-- `index.html` — Home, Services, Portfolio
-- `about.html` — About Supraja Cheekatla
-- `contact.html` — Contact form page
+Objective:
+The objective of this project was to design and develop a professional, multi-page Bootstrap website with a clean blue theme. The project demonstrates the use of Bootstrap 5 components, responsive layouts, and UI consistency across all pages.
 
-## Features
-- Professional blue color theme
-- Bootstrap 5 responsive design
-- Fixed navigation bar linking across pages
-- Common footer across all pages
+Tools Used:
+HTML5, CSS3, Bootstrap 5 (CDN), Git & GitHub, GitHub Pages, Visual Studio Code
 
-## Usage
-1. Open `index.html` in your browser.
-2. Use the navbar to navigate between Home, About, and Contact pages.
-3. Modify the text and colors in ,style.css` as needed.
+Project Structure:
+index.html   - Home Page  
+about.html   - About Page  
+contact.html - Contact Page  
+css/style.css - Custom Stylesheet  
+README.txt   - Reflection Report  
 
-© 2025 Supraja Cheekatla | All Rights Reserved.
+Pages Overview:
+• Home Page – Contains navigation bar, hero section, highlights, and footer  
+• About Page – Includes detailed information about Supraja Cheekatla and project purpose  
+• Contact Page – Features a responsive contact form and professional footer  
+
+Learning Outcomes:
+• Enhanced skills in Bootstrap 5 layout and component usage  
+• Improved understanding of responsive web design principles  
+• Learned page linking, navigation structure, and aesthetic consistency  
+• Understood the importance of clean UI and accessibility  
+
+Challenges Faced:
+• Maintaining consistent color themes across pages → Solved using a shared CSS file  
+• Navbar responsiveness on smaller screens → Resolved using Bootstrap collapse classes  
+• Page linking and transitions → Ensured through relative linking and testing  
+
+Deployment:
+GitHub Repository: https://github.com/Suprajacheekatla/bootstrap-ui-blue  
+Live Demo (GitHub Pages): https://suprajacheekatla.github.io/bootstrap-ui-exploration/
+
+Final Outcome:
+A professional, responsive, and aesthetically clean **3-page Bootstrap 5 website** with a **modern blue theme**. The project successfully demonstrates strong frontend development fundamentals, including layout design, component integration, and responsive behavior.
