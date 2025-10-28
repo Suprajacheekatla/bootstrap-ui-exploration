@@ -34,7 +34,7 @@ Challenges Faced:
 • Page linking and transitions → Ensured through relative linking and testing  
 
 Deployment:
-GitHub Repository: https://github.com/Suprajacheekatla/bootstrap-ui-blue  
+GitHub Repository: https://github.com/Suprajacheekatla/bootstrap-ui-exploration
 Live Demo (GitHub Pages): https://suprajacheekatla.github.io/bootstrap-ui-exploration/
 
 Final Outcome:
